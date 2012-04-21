@@ -6,4 +6,4 @@ This is useful if your webapp needs to generate shortened URLs. Just keep track 
 
 ## Example
 
-See my open source URL shortner, [wiqr](http://github.com/JonAbrams/wiqr), written for node.js.
+See my open source URL shortener, [wiqr](http://github.com/JonAbrams/wiqr), written for node.js.
