@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/JonAbrams/node-short.git"
+    "url": "git://github.com/JonAbrams/node-shorty.git"
   },
   "main": "lib/main.js"
 }
